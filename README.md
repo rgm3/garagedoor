@@ -41,4 +41,4 @@ named `blynk-auth-token`.  Refer to the example token file.
 
 <img src="img/garage-blynk-app.png" height="600" alt="Blynk Garage door controller app screenshot" />
 <img src="img/boxed.jpg" height="600" alt="Hardware and wires in a box" />
-[!Voltage divider for pin A3](img/voltage-divider.png)
+![Voltage divider for pin A3](img/voltage-divider.png)
