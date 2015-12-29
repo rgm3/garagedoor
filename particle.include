@@ -1,2 +1,3 @@
-blynk/*cpp
-blynk/*h
+*.ino
+*.cpp
+*.h
