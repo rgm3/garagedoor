@@ -1,0 +1,26 @@
+{
+  "name": "garage-controller",
+  "version": "0.1.0",
+  "description": "Garage door controller with phone interface by Blynk",
+  "author": {
+    "name": "Roland G. McIntosh",
+    "url": "http://rgm.nu"
+  },
+  "main": "./garage",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rgm3/garagedoor.git"
+  },
+  "dependencies": {
+  },
+  "bundledDependencies": [
+  ],
+  "devDependencies": {
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "license": "MIT",
+  "scripts": {
+  }
+}

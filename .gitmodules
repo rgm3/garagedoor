@@ -1,0 +1,3 @@
+[submodule "blynk-library-spark"]
+	path = blynk-library-spark
+	url = https://github.com/vshymanskyy/blynk-library-spark

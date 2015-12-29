@@ -1,0 +1,6 @@
+# Copy this example to a file named "blynk-auth-token"
+# And place your authentication token in it.
+# Lines beginning with '#' and empty lines are ignored
+
+# My fake auth token for Blynk garage door controller:
+deadbeefdeadbeef0123456789012345
