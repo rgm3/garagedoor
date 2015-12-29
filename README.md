@@ -39,5 +39,4 @@ page. Drag some buttons and LEDs onto it and hook them up to digital outs and vi
 Extract the authentication token (seen on the nut icon page) and place into a file
 named `blynk-auth-token`.  Refer to the example token file.
 
-![Blynk Garage door controller app screenshot]
-(img/garage-blynk-app.png)
+<img src="img/garage-blynk-app.png" height="600" alt="Blynk Garage door controller app screenshot" />
