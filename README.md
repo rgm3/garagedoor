@@ -24,12 +24,20 @@ Relays on the [Relay Shield](https://docs.particle.io/datasheets/photon-shields/
 First, get the [particle-cli](https://github.com/spark/particle-cli) tool installed and login
 with it.
 
-Then, install the [Blynk](http://blynk.cc) app on your phone, login, and create an interface
-page.  Extract the authentication token (seen on the nut icon page) and place into a file
-named `blynk-auth-token`.  Refer to the example token file.
 
 Compile with:
 
 ````
 make
 ````
+Except don't, instead copy/paste the .ino file into the web IDE at http://build.particle.io/.
+
+# Blynk
+
+Install the [Blynk](http://blynk.cc) app on your phone, login, and create an interface
+page. Drag some buttons and LEDs onto it and hook them up to digital outs and virtual pins.
+Extract the authentication token (seen on the nut icon page) and place into a file
+named `blynk-auth-token`.  Refer to the example token file.
+
+![Blynk Garage door controller app screenshot]
+(img/garage-blynk-app.png)
