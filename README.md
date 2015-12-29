@@ -40,3 +40,4 @@ Extract the authentication token (seen on the nut icon page) and place into a fi
 named `blynk-auth-token`.  Refer to the example token file.
 
 <img src="img/garage-blynk-app.png" height="600" alt="Blynk Garage door controller app screenshot" />
+<img src="img/boxed.jpg" height="600" alt="Hardware and wires in a box" />
